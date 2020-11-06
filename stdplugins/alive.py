@@ -37,7 +37,7 @@ async def amireallyalive(alive):
 
 **Pepe is always with you, My Master!**
 
-✧ **Repo** : [PEPEBOT](https://github.com/prono69/PepeBot)"""
+✧ **Repo** : [PEPEBOT](https://github.com)"""
 
     #####sticker = await borg.get_messages("LazyAF_Pepe", 26)
     #####await borg.send_file(alive.chat_id, file=sticker)
